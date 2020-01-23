@@ -72,6 +72,57 @@ Untracked files:
 
 	answers.md
 
+Answer 6. On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	new file:   README.md
+	new file:   answers.md
+
+
+Answer 7. On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   answers.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Answer 8. commit ce28771246e8520fb1cf65a9cffea7c6377a46a8 (HEAD -> master)
+Author: Matt Withem <mw767219@ohio.edu>
+Date:   Wed Jan 22 18:30:03 2020 -0500
+
+    Initial commit
+
+Answer 9. On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   answers.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Answer 10. Matt Withem, MattWithem2
+CS 2400, Section 108
+mw767219@ohio.edu 
+I saved it in the README.md file
+
+Answer 11. Everything up-to-date
+
+Answer 12. Already up to date.
+
+Answer 13. .  ..  git-lab	git-lab-2  Labs
+
+Done 
+
+
 
 
 
